@@ -8439,7 +8439,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
 }
 
 #wrapper > .invert a.icon.style2:active:before {
-    background-color: rgba(71, 211, 229, 0.1);
+    background-color: #00A1EA;
     box-shadow: inset 0 0 0 1px #00A1EA;
     color: #00A1EA;
 }
